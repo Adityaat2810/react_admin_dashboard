@@ -1,16 +1,16 @@
 import AdminSidebar from "../components/AdminSidebar"
 
-const Product = () => {
+const Transaction = () => {
   return (
     <div className="adminContainer">
     {/**Side bar */}
     <AdminSidebar/>
     {/**main */}
-    <main>product</main>
+    <main>tranaction</main>
 
     
 </div>
   )
 }
 
-export default Product
+export default Transaction
